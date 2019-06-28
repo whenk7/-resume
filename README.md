@@ -1,4 +1,4 @@
--  <center>
+ <center>
        <h1>个人简历</h1>
        <div>
            <span>
@@ -18,18 +18,18 @@
           </div>
         </center>
 
-  ## <img src="C:/Users/wen/Desktop/Markdown-Resume/assets/info-circle-solid.svg" width="30px"> 个人信息
+  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息
 
   - 姓	名 ：**齐文科**
   - 求职意向 ：Java 开发	全职
   - 工作经验 ：1 年
 
-  ## <img src="C:/Users/wen/Desktop/Markdown-Resume/assets/graduation-cap-solid.svg" width="30px"> 教育经历
+  ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
   - 2014.9 ~ 2018.7	本科，洛阳理工学院，应用化学专业
   - 通过了 CET4 英语等级考试
 
-  ## <img src="C:/Users/wen/Desktop/Markdown-Resume/assets/briefcase-solid.svg" width="30px"> 工作经历
+  ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
   - 2018.8-2018.12  **洛阳瑞泰化工厂**
 
@@ -68,7 +68,7 @@
 
   
 
-  ## <img src="C:/Users/wen/Desktop/Markdown-Resume/assets/tools-solid.svg" width="30px"> 技能清单
+  ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
   - 熟练使用 MyBatis, Spring, pringMVC, Struts2, Hibernate, easyUI 等开源框架
   - 熟练使用 JavaScript, Ajax, jQuery, Vue.js 等前台开发技术
