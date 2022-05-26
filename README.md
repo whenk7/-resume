@@ -3,7 +3,7 @@
        <div>
            <span>
                <img src="assets/phone-solid.svg" width="18px">
-               13183082379
+               13XXXXXXXX
            </span>
            ·
            <span>
